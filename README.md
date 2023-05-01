@@ -29,7 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obi-reddy&show_icons=true&locale=en" alt="obi-reddy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obi-reddy&" alt="obi-reddy" /></p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sadasiva111&theme=gotham&hide_border=false)<br/>
+
 
 ###  ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
