@@ -77,7 +77,7 @@
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Aws.svg" />
+<img height="42px" align="left" src="https://aws.amazon.com" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" />
 <br/>
 <br/>
