@@ -1,9 +1,9 @@
 ![](https://github.com/sadasiva111/sadasiva111/blob/ee4baa4114985770edc9af5e23eb46f19e50a325/Banner.gif)
-<h1 align="center">Hi 👋, I'm Obi Reddy</h1>
+<h1 align="center">Hi 👋, This is yakkshit</h1>
 <h3 align="center">Full Stack Python Developer with Expertise in Java, Python, JavaScript, HTML/CSS, and DevOps Practices</h3>
 <!--<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="coding">-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obi-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="obi-reddy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiyakkshit&label=Profile%20views&color=0e75b6&style=flat" alt="yakkshit" /> </p>
 
 - 🔭 I’m currently working on **Final University Thesis**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Full Stack Development, Java, Python, JavaScript, HTML/CSS, and DevOps**
 
-- 📫 How to reach me **kobireddyk@gmail.com**
+- 📫 How to reach me **saiyakkshit2001@gmail.com**
 
 - ⚡ Fun fact **I am also a fan of outdoor activities like hiking and camping**
 
@@ -106,14 +106,7 @@
 <br/>
 <br/>
 <br/>
-<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=obi-reddy&theme=midnight-purple"/>
-<br />
-
-<br/>
-
-</p>
 
 
 ###                                        ✍️ Random Dev Quotes
@@ -121,9 +114,3 @@
 <p align=center>
   <img align="center" width=60% src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 <p>
-
-
-<p align=center>
-  <img align="center" width=60% src="https://spotify-github-profile.vercel.app/api/view?uid=p9evly10gfby51rfymrv158sf&cover_image=true&theme=novatorem" />
-<p>
-  
