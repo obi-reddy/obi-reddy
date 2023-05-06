@@ -116,7 +116,7 @@
 </p>
 
 
-###<---------------------------------------------✍️ Random Dev Quotes --------------------->
+<---------------------------------------------✍️ Random Dev Quotes--------------------------------------------->
 <!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)-->
 <p align=center>
   <img align="center" width=60% src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
