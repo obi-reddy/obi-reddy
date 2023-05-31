@@ -4,7 +4,7 @@
 <!--<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="coding">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obi-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="obi-reddy" /> </p>
-
+ 
 - 🔭 I’m currently working on **Final Year University Bachelor Thesis** 
 
 - 🌱 I’m currently learning **Kafka, Microservices, DevOps**
