@@ -7,7 +7,7 @@
  
 - 🔭 I’m currently working on **Final Year University Bachelor Thesis** 
 
-- 🌱 I’m currently learning **Kafka, Microservices, DevOps**
+- 🌱 I’m currently learning **Kafka, Microservices, DevOps**  
 
 - 👯 I’m looking to collaborate on **Full-stack development**
 
