@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kafka, Microservices, DevOps**  
 
-- 👯 I’m looking to collaborate on **Full-stack development**
+- 👯 I’m looking to collaborate on **Full-stack development** 
 
 - 💬 Ask me about **Full Stack Development, Java, Python, JavaScript, HTML/CSS, and DevOps**
 
