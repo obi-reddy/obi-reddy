@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **obireddy023@gmail.com**
 
-- ⚡ Fun fact **I am also a fan of outdoor activities like hiking and camping**
+- ⚡ Fun fact **I am also a fan of outdoor activities like hiking and camping** 
 
 
  
