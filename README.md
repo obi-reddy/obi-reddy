@@ -1,6 +1,6 @@
 ![](https://github.com/obi-reddy/obi-reddy/blob/28a8f60373006426ed6dff5ddf3d6f603281d675/Banner.gif)
 <h1 align="center">Hi 👋, I'm Obi Reddy</h1>
-<h3 align="center">Full Stack Python Developer with Expertise in Java, Python, JavaScript, HTML/CSS, and DevOps Practices</h3>   
+<h3 align="center">Full Stack Python Developer with Expertise in Java, Python, JavaScript, HTML/CSS, DevOps Practices, and Amazon Web Services</h3>   
 <!--<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="coding">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obi-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="obi-reddy" /> </p>
