@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obi-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="obi-reddy" /> </p>
  
-- 🔭 **I’m recently graduated from Blekinge Institute of Technology in Karlskrona, Sweden.**    
+- 🔭 **I’m recently graduated from Blekinge Institute of Technology in Karlskrona, Sweden.**     
     
 - 🌱 I’m currently learning **Kafka, Microservices, DevOps**  
 
