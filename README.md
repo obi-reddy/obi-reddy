@@ -1,4 +1,5 @@
 ![](https://github.com/obi-reddy/obi-reddy/blob/28a8f60373006426ed6dff5ddf3d6f603281d675/Banner.gif)
+![](https://github.com/obi-reddy/Etteplan-Work-Test/blob/cbab4e71a9288d8c0c21a6edc6d2de3ed61465ea/screenshots/screenshot1.png)
 <h1 align="center">Hi 👋, I'm Obi Reddy</h1>
 <h3 align="center">Full Stack Python Developer with Expertise in Java, Python, JavaScript, HTML/CSS, DevOps Practices, and Amazon Web Services</h3>   
 <!--<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="coding">-->
